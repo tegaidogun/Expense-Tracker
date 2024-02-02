@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Personal Expense Tracker</h1>
+<h1>Expense Tracker</h1>
 
 <p>This Expense Tracker is a Flask-based web application that assists users in monitoring and managing their daily expenses in a simple and efficient manner.</p>
 
