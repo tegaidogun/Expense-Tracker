@@ -9,7 +9,7 @@
 <h2>Features</h2>
 
 <ul>
-    <li><strong>User Authentication</strong>: Secure user registration and login to protect your expense data.</li>
+    <li><strong>User Authentication</strong>: Simple user registration and login to protect your expense data.</li>
     <li><strong>Add Expenses</strong>: Easily add new expenses with details like amount and description.</li>
     <li><strong>Edit Expenses</strong>: Modify existing expense entries effortlessly.</li>
     <li><strong>Delete Expenses</strong>: Remove unwanted expense entries from the list.</li>
